@@ -1,0 +1,121 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Gray Man,Rawson Marshall Thurber,"Henry Cavill, Pedro Pascal",Germany,June 27 2020,2017,PG,135 min,Dramas,Sample Netflix content description for practice dataset.
+s2,Movie,Extraction,Gina Prince-Bythewood,"Emma Stone, Ralph Macchio",United Kingdom,October 17 2018,2015,TV-14,110 min,International TV Shows,Sample Netflix content description for practice dataset.
+s3,TV Show,Dark,,"Emma Stone, Ralph Macchio",Spain,October 21 2017,2021,TV-MA,5 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s4,TV Show,Wednesday,,"Ralph Macchio, Robert De Niro",South Africa,September 01 2021,2019,PG,4 Seasons,Action,Sample Netflix content description for practice dataset.
+s5,TV Show,Narcos,,"Henry Cavill, Melissa McCarthy",South Africa,March 08 2019,2021,R,4 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s6,TV Show,Stranger Things,,"Chris Hemsworth, Melissa McCarthy",Spain,March 19 2018,2023,R,4 Seasons,Action,Sample Netflix content description for practice dataset.
+s7,Movie,Bird Box,Gina Prince-Bythewood,"Henry Cavill, Emma Stone",India,August 03 2021,2015,PG-13,101 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s8,TV Show,Lupin,,"Chris Hemsworth, Pedro Pascal",South Africa,June 16 2020,2019,TV-MA,5 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s9,TV Show,Wednesday,,"Henry Cavill, Chris Hemsworth",Canada,February 12 2018,2015,TV-MA,2 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s10,TV Show,Lupin,,"William Zabka, Melissa McCarthy",Spain,January 27 2022,2022,R,1 Seasons,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s11,TV Show,The Witcher,,"William Zabka, Pedro Pascal",United States,February 27 2016,2015,PG,2 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s12,TV Show,Bridgerton,,"Pedro Pascal, Chris Hemsworth",India,November 25 2019,2018,TV-14,1 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s13,TV Show,Stranger Things,,"Henry Cavill, Millie Bobby Brown",Spain,April 08 2022,2017,TV-MA,4 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s14,Movie,Army of Thieves,Matthias Schweighofer,"Melissa McCarthy, Millie Bobby Brown",Canada,January 04 2021,2019,TV-MA,115 min,Comedies,Sample Netflix content description for practice dataset.
+s15,Movie,The Old Guard,Gina Prince-Bythewood,"Millie Bobby Brown, Melissa McCarthy",Canada,March 27 2016,2023,PG,93 min,Documentaries,Sample Netflix content description for practice dataset.
+s16,TV Show,Cobra Kai,,"Robert De Niro, Melissa McCarthy",South Africa,January 29 2018,2022,TV-MA,2 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s17,TV Show,Wednesday,,"Melissa McCarthy, Henry Cavill",United States,February 11 2022,2017,TV-14,4 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s18,Movie,Glass Onion,Martin Scorsese,"Melissa McCarthy, Robert De Niro",United States,April 06 2022,2022,R,112 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s19,TV Show,Blood & Water,,"Robert De Niro, Henry Cavill",South Africa,September 06 2020,2019,PG-13,3 Seasons,Action,Sample Netflix content description for practice dataset.
+s20,Movie,The Starling,Theodore Melfi,"Emma Stone, Henry Cavill",United Kingdom,April 04 2018,2018,TV-MA,81 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s21,Movie,Extraction,Gina Prince-Bythewood,"Pedro Pascal, Chris Hemsworth",Germany,January 03 2021,2018,TV-14,119 min,Dramas,Sample Netflix content description for practice dataset.
+s22,Movie,The Irishman,Matthias Schweighofer,"Chris Hemsworth, Ralph Macchio",Spain,June 13 2021,2022,TV-MA,146 min,International TV Shows,Sample Netflix content description for practice dataset.
+s23,TV Show,Lupin,,"Emma Stone, Ralph Macchio",Germany,September 15 2016,2018,TV-MA,5 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s24,TV Show,Cobra Kai,,"Emma Stone, Robert De Niro",India,October 10 2022,2015,TV-14,6 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s25,Movie,The Irishman,Rawson Marshall Thurber,"Robert De Niro, Emma Stone",United Kingdom,July 12 2017,2016,TV-14,101 min,International TV Shows,Sample Netflix content description for practice dataset.
+s26,Movie,Enola Holmes,Rawson Marshall Thurber,"Emma Stone, William Zabka",United States,November 08 2019,2021,PG,98 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s27,TV Show,Bridgerton,,"Melissa McCarthy, Henry Cavill",United States,June 04 2019,2016,TV-14,3 Seasons,Action,Sample Netflix content description for practice dataset.
+s28,TV Show,Lupin,,"Emma Stone, Ralph Macchio",Germany,June 24 2021,2015,PG-13,3 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s29,TV Show,Narcos,,"Ralph Macchio, Pedro Pascal",India,July 28 2022,2024,R,3 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s30,TV Show,The Witcher,,"Pedro Pascal, Melissa McCarthy",United States,July 11 2018,2019,R,5 Seasons,Action,Sample Netflix content description for practice dataset.
+s31,Movie,Glass Onion,Martin Scorsese,"Pedro Pascal, Chris Hemsworth",Canada,February 13 2017,2021,PG-13,133 min,Action,Sample Netflix content description for practice dataset.
+s32,TV Show,Wednesday,,"Henry Cavill, William Zabka",India,July 03 2022,2022,PG,4 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s33,TV Show,Money Heist,,"Robert De Niro, William Zabka",United Kingdom,August 25 2018,2024,TV-14,5 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s34,Movie,Red Notice,Matthias Schweighofer,"Pedro Pascal, Robert De Niro",United Kingdom,August 26 2022,2017,PG-13,118 min,Documentaries,Sample Netflix content description for practice dataset.
+s35,Movie,The Gray Man,Gina Prince-Bythewood,"Robert De Niro, Melissa McCarthy",Spain,March 11 2022,2015,TV-MA,85 min,International TV Shows,Sample Netflix content description for practice dataset.
+s36,Movie,The Old Guard,Martin Scorsese,"Henry Cavill, Emma Stone",United States,August 30 2019,2016,TV-MA,104 min,Comedies,Sample Netflix content description for practice dataset.
+s37,TV Show,The Witcher,,"Emma Stone, Melissa McCarthy",Germany,April 22 2016,2020,R,6 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s38,TV Show,Lupin,,"Chris Hemsworth, Henry Cavill",Canada,September 05 2022,2019,TV-14,1 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s39,Movie,Glass Onion,Sam Hargrave,"Melissa McCarthy, Henry Cavill",Canada,April 17 2022,2017,TV-14,150 min,Comedies,Sample Netflix content description for practice dataset.
+s40,Movie,Bird Box,Rawson Marshall Thurber,"Pedro Pascal, William Zabka",Canada,August 30 2018,2016,TV-14,88 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s41,Movie,Red Notice,Rawson Marshall Thurber,"Millie Bobby Brown, Henry Cavill",Spain,January 18 2017,2016,PG-13,115 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s42,Movie,Glass Onion,Sam Hargrave,"Henry Cavill, Ralph Macchio",United States,November 14 2016,2023,TV-MA,81 min,Action,Sample Netflix content description for practice dataset.
+s43,Movie,6 Underground,Gina Prince-Bythewood,"William Zabka, Pedro Pascal",United States,April 30 2021,2020,TV-MA,135 min,Action,Sample Netflix content description for practice dataset.
+s44,Movie,Army of Thieves,Martin Scorsese,"Melissa McCarthy, Chris Hemsworth",United Kingdom,July 24 2016,2021,PG,143 min,International TV Shows,Sample Netflix content description for practice dataset.
+s45,Movie,The Starling,Theodore Melfi,"Ralph Macchio, William Zabka",United States,February 06 2022,2022,R,114 min,International TV Shows,Sample Netflix content description for practice dataset.
+s46,Movie,Don't Look Up,Martin Scorsese,"Chris Hemsworth, Millie Bobby Brown",Canada,October 28 2018,2015,R,113 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s47,Movie,The Gray Man,Sam Hargrave,"Robert De Niro, Melissa McCarthy",United States,April 21 2016,2020,PG-13,94 min,International TV Shows,Sample Netflix content description for practice dataset.
+s48,Movie,The Irishman,Sam Hargrave,"Robert De Niro, Melissa McCarthy",United Kingdom,December 23 2016,2018,PG,88 min,Comedies,Sample Netflix content description for practice dataset.
+s49,Movie,Extraction,Susanne Bier,"Ralph Macchio, Pedro Pascal",India,January 10 2017,2022,R,105 min,Documentaries,Sample Netflix content description for practice dataset.
+s50,Movie,The Old Guard,Sam Hargrave,"William Zabka, Emma Stone",Spain,April 14 2021,2015,TV-14,115 min,Documentaries,Sample Netflix content description for practice dataset.
+s51,TV Show,Bridgerton,,"Henry Cavill, Ralph Macchio",South Africa,June 26 2016,2016,PG,4 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s52,Movie,6 Underground,Rawson Marshall Thurber,"Robert De Niro, Chris Hemsworth",Canada,June 12 2020,2019,TV-MA,125 min,Documentaries,Sample Netflix content description for practice dataset.
+s53,TV Show,Dark,,"Melissa McCarthy, Millie Bobby Brown",United Kingdom,October 04 2020,2021,TV-14,6 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s54,Movie,Don't Look Up,Susanne Bier,"Emma Stone, Millie Bobby Brown",Canada,November 02 2022,2020,PG-13,120 min,Dramas,Sample Netflix content description for practice dataset.
+s55,TV Show,Bridgerton,,"Robert De Niro, Ralph Macchio",United States,January 09 2021,2015,TV-MA,3 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s56,Movie,Enola Holmes,Sam Hargrave,"Chris Hemsworth, Melissa McCarthy",South Africa,March 19 2021,2016,TV-MA,140 min,Documentaries,Sample Netflix content description for practice dataset.
+s57,Movie,Red Notice,Susanne Bier,"Pedro Pascal, Henry Cavill",Canada,July 04 2017,2023,TV-MA,112 min,Dramas,Sample Netflix content description for practice dataset.
+s58,TV Show,Blood & Water,,"Melissa McCarthy, Emma Stone",Canada,March 20 2019,2017,PG-13,1 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s59,Movie,The Old Guard,Gina Prince-Bythewood,"Pedro Pascal, William Zabka",South Africa,April 14 2017,2024,TV-MA,127 min,Comedies,Sample Netflix content description for practice dataset.
+s60,TV Show,The Witcher,,"Pedro Pascal, Robert De Niro",Spain,April 11 2022,2021,PG,2 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s61,TV Show,Blood & Water,,"William Zabka, Pedro Pascal",United Kingdom,January 24 2016,2021,TV-14,2 Seasons,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s62,TV Show,Bridgerton,,"Pedro Pascal, Melissa McCarthy",Canada,August 11 2020,2018,PG,6 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s63,Movie,6 Underground,Sam Hargrave,"William Zabka, Chris Hemsworth",India,April 09 2021,2015,PG,111 min,International TV Shows,Sample Netflix content description for practice dataset.
+s64,TV Show,Lupin,,"Melissa McCarthy, Chris Hemsworth",Spain,June 12 2020,2022,TV-14,5 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s65,Movie,Red Notice,Rawson Marshall Thurber,"Emma Stone, Chris Hemsworth",United States,October 27 2016,2023,TV-14,137 min,Comedies,Sample Netflix content description for practice dataset.
+s66,Movie,Glass Onion,Theodore Melfi,"Melissa McCarthy, Robert De Niro",United States,October 05 2017,2016,R,114 min,Documentaries,Sample Netflix content description for practice dataset.
+s67,Movie,Enola Holmes,Theodore Melfi,"Melissa McCarthy, Henry Cavill",Canada,September 25 2022,2022,R,148 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s68,Movie,Army of Thieves,Sam Hargrave,"Chris Hemsworth, Robert De Niro",South Africa,January 08 2016,2015,PG-13,119 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s69,Movie,The Irishman,Martin Scorsese,"Millie Bobby Brown, William Zabka",Spain,October 30 2018,2020,PG-13,124 min,Dramas,Sample Netflix content description for practice dataset.
+s70,TV Show,Stranger Things,,"Ralph Macchio, William Zabka",South Africa,April 12 2017,2017,R,2 Seasons,Action,Sample Netflix content description for practice dataset.
+s71,TV Show,Bridgerton,,"Emma Stone, Millie Bobby Brown",United States,January 21 2021,2021,TV-14,2 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s72,Movie,The Irishman,Matthias Schweighofer,"Millie Bobby Brown, Ralph Macchio",Germany,October 17 2018,2017,R,105 min,International TV Shows,Sample Netflix content description for practice dataset.
+s73,TV Show,Stranger Things,,"Ralph Macchio, Robert De Niro",India,August 22 2022,2015,R,6 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s74,TV Show,Stranger Things,,"Ralph Macchio, William Zabka",Spain,July 15 2018,2019,TV-14,1 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s75,Movie,The Old Guard,Susanne Bier,"Henry Cavill, Pedro Pascal",United States,October 04 2020,2017,TV-MA,138 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s76,TV Show,Lupin,,"Ralph Macchio, Chris Hemsworth",Spain,July 30 2020,2023,PG-13,6 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s77,TV Show,Wednesday,,"William Zabka, Emma Stone",Spain,July 22 2017,2024,PG,2 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s78,TV Show,Money Heist,,"Millie Bobby Brown, Robert De Niro",South Africa,October 17 2022,2021,TV-14,2 Seasons,Action,Sample Netflix content description for practice dataset.
+s79,TV Show,Narcos,,"William Zabka, Henry Cavill",United Kingdom,July 30 2022,2021,PG-13,1 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s80,TV Show,Cobra Kai,,"Melissa McCarthy, Henry Cavill",Canada,January 14 2021,2020,PG,4 Seasons,Action,Sample Netflix content description for practice dataset.
+s81,Movie,Glass Onion,Rawson Marshall Thurber,"Melissa McCarthy, William Zabka",India,November 29 2016,2016,TV-14,92 min,International TV Shows,Sample Netflix content description for practice dataset.
+s82,Movie,Bird Box,Theodore Melfi,"Henry Cavill, Robert De Niro",United States,March 21 2021,2016,TV-14,102 min,Documentaries,Sample Netflix content description for practice dataset.
+s83,Movie,Army of Thieves,Matthias Schweighofer,"Henry Cavill, Chris Hemsworth",Canada,April 08 2019,2022,PG-13,95 min,Documentaries,Sample Netflix content description for practice dataset.
+s84,Movie,6 Underground,Gina Prince-Bythewood,"Melissa McCarthy, Millie Bobby Brown",South Africa,January 24 2018,2024,PG-13,106 min,Documentaries,Sample Netflix content description for practice dataset.
+s85,TV Show,The Witcher,,"Millie Bobby Brown, Robert De Niro",India,July 08 2017,2018,TV-14,2 Seasons,Action,Sample Netflix content description for practice dataset.
+s86,TV Show,Lupin,,"Melissa McCarthy, Chris Hemsworth",Germany,July 22 2016,2020,PG-13,3 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s87,Movie,The Old Guard,Susanne Bier,"William Zabka, Pedro Pascal",United States,April 27 2021,2017,PG-13,83 min,Documentaries,Sample Netflix content description for practice dataset.
+s88,Movie,The Starling,Theodore Melfi,"Melissa McCarthy, Millie Bobby Brown",Germany,May 08 2022,2020,TV-14,144 min,Action & Adventure,Sample Netflix content description for practice dataset.
+s89,Movie,The Gray Man,Matthias Schweighofer,"William Zabka, Emma Stone",South Africa,March 22 2022,2023,PG-13,92 min,Action,Sample Netflix content description for practice dataset.
+s90,Movie,The Old Guard,Rawson Marshall Thurber,"Melissa McCarthy, Henry Cavill",United States,March 11 2021,2019,TV-14,134 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s91,Movie,The Old Guard,Matthias Schweighofer,"Robert De Niro, Emma Stone",Spain,April 22 2018,2015,PG-13,94 min,International TV Shows,Sample Netflix content description for practice dataset.
+s92,TV Show,Cobra Kai,,"William Zabka, Emma Stone",India,September 15 2018,2021,PG-13,6 Seasons,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s93,TV Show,Wednesday,,"Ralph Macchio, Chris Hemsworth",Germany,April 03 2018,2018,PG,4 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s94,Movie,The Starling,Matthias Schweighofer,"Millie Bobby Brown, William Zabka",South Africa,July 10 2017,2019,PG-13,96 min,Comedies,Sample Netflix content description for practice dataset.
+s95,TV Show,Lupin,,"Pedro Pascal, Ralph Macchio",Spain,October 23 2018,2021,TV-14,6 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s96,TV Show,Bridgerton,,"Emma Stone, Pedro Pascal",India,December 15 2020,2015,PG,4 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s97,TV Show,Dark,,"Robert De Niro, Henry Cavill",Germany,November 06 2021,2023,PG,5 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s98,Movie,Red Notice,Martin Scorsese,"Millie Bobby Brown, Emma Stone",Canada,October 18 2022,2024,PG,90 min,Comedies,Sample Netflix content description for practice dataset.
+s99,TV Show,Blood & Water,,"Millie Bobby Brown, Melissa McCarthy",Germany,November 28 2017,2020,PG,2 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s100,Movie,The Gray Man,Martin Scorsese,"Millie Bobby Brown, Robert De Niro",Canada,January 23 2020,2018,PG,114 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s101,TV Show,Stranger Things,,"Melissa McCarthy, Pedro Pascal",Spain,February 22 2017,2024,PG,4 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s102,TV Show,Lupin,,"Millie Bobby Brown, Ralph Macchio",Canada,October 25 2020,2020,TV-MA,1 Seasons,Action,Sample Netflix content description for practice dataset.
+s103,Movie,Army of Thieves,Rawson Marshall Thurber,"Pedro Pascal, William Zabka",Germany,April 21 2021,2016,TV-MA,80 min,Documentaries,Sample Netflix content description for practice dataset.
+s104,TV Show,Wednesday,,"William Zabka, Pedro Pascal",South Africa,September 25 2018,2021,TV-MA,2 Seasons,Documentaries,Sample Netflix content description for practice dataset.
+s105,TV Show,Cobra Kai,,"Pedro Pascal, William Zabka",Canada,May 26 2016,2022,PG-13,2 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s106,Movie,Red Notice,Gina Prince-Bythewood,"William Zabka, Emma Stone",India,June 02 2018,2022,PG,102 min,Action,Sample Netflix content description for practice dataset.
+s107,Movie,The Starling,Rawson Marshall Thurber,"Millie Bobby Brown, Emma Stone",United Kingdom,December 13 2021,2023,R,149 min,Documentaries,Sample Netflix content description for practice dataset.
+s108,Movie,The Gray Man,Gina Prince-Bythewood,"William Zabka, Millie Bobby Brown",Canada,October 04 2018,2019,TV-MA,94 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s109,TV Show,Wednesday,,"Robert De Niro, Chris Hemsworth",United Kingdom,January 30 2019,2016,PG-13,6 Seasons,Action & Adventure,Sample Netflix content description for practice dataset.
+s110,TV Show,Wednesday,,"Pedro Pascal, Melissa McCarthy",United Kingdom,November 21 2018,2016,PG,2 Seasons,Action,Sample Netflix content description for practice dataset.
+s111,Movie,Glass Onion,Rawson Marshall Thurber,"Melissa McCarthy, Chris Hemsworth",Spain,January 26 2021,2023,PG-13,85 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s112,TV Show,Cobra Kai,,"Melissa McCarthy, Chris Hemsworth",India,February 27 2019,2019,PG-13,1 Seasons,Action,Sample Netflix content description for practice dataset.
+s113,Movie,The Irishman,Rawson Marshall Thurber,"Pedro Pascal, Melissa McCarthy",United States,October 11 2018,2015,TV-MA,94 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s114,Movie,Don't Look Up,Susanne Bier,"Millie Bobby Brown, Henry Cavill",South Africa,May 08 2020,2017,TV-MA,129 min,Action,Sample Netflix content description for practice dataset.
+s115,Movie,Extraction,Susanne Bier,"William Zabka, Pedro Pascal",Germany,August 31 2018,2021,PG,105 min,Sci-Fi & Fantasy,Sample Netflix content description for practice dataset.
+s116,TV Show,Stranger Things,,"Millie Bobby Brown, Melissa McCarthy",Germany,October 24 2019,2019,PG-13,5 Seasons,Dramas,Sample Netflix content description for practice dataset.
+s117,TV Show,Bridgerton,,"Pedro Pascal, Melissa McCarthy",Germany,October 18 2018,2024,PG,4 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
+s118,TV Show,Lupin,,"William Zabka, Emma Stone",Canada,October 21 2019,2022,TV-14,4 Seasons,Comedies,Sample Netflix content description for practice dataset.
+s119,TV Show,Bridgerton,,"Robert De Niro, Emma Stone",Spain,January 18 2018,2021,PG-13,1 Seasons,Action,Sample Netflix content description for practice dataset.
+s120,TV Show,Cobra Kai,,"William Zabka, Chris Hemsworth",Germany,November 11 2018,2017,TV-14,1 Seasons,International TV Shows,Sample Netflix content description for practice dataset.
